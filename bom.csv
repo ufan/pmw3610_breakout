@@ -1,0 +1,12 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"C10,C9";"C_0603_1608Metric";2;"1u";;;
+2;"C12";"C_0603_1608Metric";1;" 10u (X7R)";;;
+3;"C8";"C_0603_1608Metric";1;" 100n (X7R)";;;
+4;"R13";"R_0603_1608Metric";1;"2M";;;
+5;"C13";"C_0603_1608Metric";1;" 10n (X7R)";;;
+6;"U7";"SOT-23";1;"MCP1700-1802E-TT";;;
+7;"C7";"C_0603_1608Metric";1;"3.3u/16V";;;
+8;"U6";"PMW3610";1;"PMW3610";;;
+9;"C5";"C_0603_1608Metric";1;"10n";;;
+10;"C11,C6";"C_0603_1608Metric";2;"100n";;;
+11;"JP1";"SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels";1;"SolderJumper_3_Open";;;
