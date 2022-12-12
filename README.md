@@ -7,6 +7,7 @@
 - **datasheet** : lens datasheet
 - **schematics.png**
 - **board.png**
+- **design/pcb** : the board design file in case you need to modify the outline and add screw holes.
 
 ## Build guide
 ### socket pins
@@ -39,3 +40,10 @@ Check [this reference shield](https://github.com/ufan/zmk/tree/ptdevice-refactor
 ## Datasheet
 The sensor: https://item.taobao.com/item.htm?id=589838076159
 The sheet about the lens can be found under **datasheet**
+
+## PCB Design file
+The breakout is extracted from my keyboard project. So the design file is not complete (no schematics design file).
+But it should be sufficient to make some outline adjustment and adding extra screw holes.
+
+There are many alternative regulator on the market with compatible footprint. In most cases, it's not necessary to 
+change the circuit design.
